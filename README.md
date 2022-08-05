@@ -1,4 +1,14 @@
 # DirectTooltip
+
+**NOTE:** This widget has been integrated in the DirectGuiExtension package:<br />
+https://github.com/fireclawthefox/DirectGuiExtension
+
+Since it got many more useful elements, including this tooltip, this repository is basically deprecated and won't really be maintained anymore.
+<br />
+<br />
+<br />
+<br />
+<br />
 A simple tooltip for Panda3D applications using DirectGUI
 
 ## Features
