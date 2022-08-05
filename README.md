@@ -23,3 +23,7 @@ tt.show("my test message")
 myGuiElement.bind(DGG.ENTER, tt.show, ["My tooltip text for myGuiElement"])
 myGuiElement.bind(DGG.EXIT, tt.hide)
 ```
+
+State of DirectGui element needs to be specified as `DGG.Normal`
+
+See the example.
